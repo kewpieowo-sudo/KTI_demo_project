@@ -1,2 +1,7 @@
-# KTI_demo_project
-This is a demo project for KTI labs
+# Describitions of the demonstration project
+
+This is a demo project created to gain skills in working with Git.
+
+---
+
+Taylor Swift
